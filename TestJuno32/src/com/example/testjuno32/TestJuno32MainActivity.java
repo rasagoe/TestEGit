@@ -1,8 +1,9 @@
 package com.example.testjuno32;
 
-import android.os.Bundle;
 import android.app.Activity;
+import android.os.Bundle;
 import android.view.Menu;
+import android.widget.TextView;
 
 public class TestJuno32MainActivity extends Activity {
 
@@ -10,6 +11,9 @@ public class TestJuno32MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_test_juno32_main);
+
+		TextView tv = (TextView)findViewById(R.id.textView1);
+		tv.setText("edit main activity");
 	}
 
 	@Override
