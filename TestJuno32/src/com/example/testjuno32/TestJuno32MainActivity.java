@@ -13,7 +13,8 @@ public class TestJuno32MainActivity extends Activity {
 		setContentView(R.layout.activity_test_juno32_main);
 
 		TextView tv = (TextView)findViewById(R.id.textView1);
-		tv.setText("edit main activity");
+//		tv.setText("edit main activity");
+		tv.setText("edit main activity2");
 	}
 
 	@Override
