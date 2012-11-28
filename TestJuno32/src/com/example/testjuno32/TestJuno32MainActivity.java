@@ -17,7 +17,9 @@ public class TestJuno32MainActivity extends Activity {
 //		tv.setText("edit main activity2");
 //		tv.setText("test branch");
 
-		tv.setText("test 1");
+//		tv.setText("test 1");
+//		tv.setText("test 2");
+		tv.setText("test 3");
 
 
 
