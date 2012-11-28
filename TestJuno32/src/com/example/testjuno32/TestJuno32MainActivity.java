@@ -14,7 +14,7 @@ public class TestJuno32MainActivity extends Activity {
 
 		TextView tv = (TextView)findViewById(R.id.textView1);
 //		tv.setText("edit main activity");
-		tv.setText("edit main activity2");
+		tv.setText("edit main activity2 hashimoto");
 	}
 
 	@Override
