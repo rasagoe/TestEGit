@@ -7,6 +7,7 @@ import android.widget.TextView;
 
 public class TestJuno32MainActivity extends Activity {
 private String Name = "KSATOU";
+private String Name2 ="AddKSATOU";
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
