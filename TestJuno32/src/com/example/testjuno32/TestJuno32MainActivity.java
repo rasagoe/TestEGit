@@ -6,7 +6,7 @@ import android.view.Menu;
 import android.widget.TextView;
 
 public class TestJuno32MainActivity extends Activity {
-
+private String Name = "KSATOU";
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -15,6 +15,7 @@ public class TestJuno32MainActivity extends Activity {
 		TextView tv = (TextView)findViewById(R.id.textView1);
 //		tv.setText("edit main activity");
 		tv.setText("edit main activity2");
+		
 	}
 
 	@Override
