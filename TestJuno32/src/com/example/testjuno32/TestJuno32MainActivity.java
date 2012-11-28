@@ -17,6 +17,7 @@ private String Name2 ="AddKSATOU";
 //		tv.setText("edit main activity");
 		tv.setText("edit main activity2");
 		
+		tv.setText("edit main activity2 hashimoto");
 	}
 
 	@Override
